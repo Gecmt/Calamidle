@@ -1,0 +1,463 @@
+[
+  {
+    "name": "King Slime",
+    "gender": "Male",
+    "progression": "Optional",
+    "type": "Ground",
+    "stage": "Pre-Hardmode",
+    "images": [
+      "/bosses/vanilla/Map Icon King Slime.png"
+    ]
+  },
+  {
+    "name": "Desert Scourge",
+    "gender": "Unknown",
+    "progression": "Optional",
+    "type": "Worm",
+    "stage": "Pre-Hardmode",
+    "images": [
+      "/bosses/calamity/Desert Scourge map.png"
+    ]
+  },
+  {
+    "name": "Eye of Cthulhu",
+    "gender": "Unknown",
+    "progression": "Semi-Required",
+    "type": "Flying",
+    "stage": "Pre-Hardmode",
+    "images": [
+      "/bosses/vanilla/Map Icon Eye of Cthulhu (first form).png"
+    ]
+  },
+  {
+    "name": "Crabulon",
+    "gender": "Unknown",
+    "progression": "Optional",
+    "type": "Ground",
+    "stage": "Pre-Hardmode",
+    "images": [
+      "/bosses/calamity/Crabulon map.png"
+    ]
+  },
+  {
+    "name": "Eater of Worlds",
+    "gender": "Unknown",
+    "progression": "Main Progression",
+    "type": "Worm",
+    "stage": "Pre-Hardmode",
+    "images": [
+      "/bosses/vanilla/Map Icon Eater of Worlds.png"
+    ]
+  },
+  {
+    "name": "Brain of Cthulhu",
+    "gender": "Unknown",
+    "progression": "Main Progression",
+    "type": "Flying",
+    "stage": "Pre-Hardmode",
+    "images": [
+      "/bosses/vanilla/Map Icon Brain of Cthulhu.png"
+    ]
+  },
+  {
+    "name": "The Hive Mind",
+    "gender": "Unknown",
+    "progression": "Semi-Required",
+    "type": "Flying",
+    "stage": "Pre-Hardmode",
+    "images": [
+      "/bosses/calamity/Hive Mind map.png"
+    ]
+  },
+  {
+    "name": "The Perforators",
+    "gender": "Unknown",
+    "progression": "Semi-Required",
+    "type": ["Flying", "Worm"],
+    "stage": "Pre-Hardmode",
+    "images": [
+      "/bosses/calamity/Perforator Hive map.png",
+      "/bosses/calamity/Large Perforator map.png",
+      "/bosses/calamity/Medium Perforator map.png",
+      "/bosses/calamity/Small Perforator map.png"
+    ]
+  },
+  {
+    "name": "Queen Bee",
+    "gender": "Female",
+    "progression": "Optional",
+    "type": "Flying",
+    "stage": "Pre-Hardmode",
+    "images": [
+      "/bosses/vanilla/Map Icon Queen Bee.png"
+    ]
+  },
+  {
+    "name": "Deerclops",
+    "gender": "Unknown",
+    "progression": "Optional",
+    "type": "Ground",
+    "stage": "Pre-Hardmode",
+    "images": [
+      "/bosses/vanilla/Map Icon Deerclops.png"
+    ]
+  },
+  {
+    "name": "Skeletron",
+    "gender": "Unknown",
+    "progression": "Main Progression",
+    "type": "Flying",
+    "stage": "Pre-Hardmode",
+    "images": [
+      "/bosses/vanilla/Map Icon Skeletron.png"
+    ]
+  },
+  {
+    "name": "The Slime God",
+    "gender": "Unknown",
+    "progression": "Semi-Required",
+    "type": ["Ground", "Flying"],
+    "stage": "Pre-Hardmode",
+    "images": [
+      "/bosses/calamity/Slime God Core map.png",
+      "/bosses/calamity/Crimulan Paladin map.png",
+      "/bosses/calamity/Ebonian Paladin map.png"
+    ]
+  },
+  {
+    "name": "Wall of Flesh",
+    "gender": "Unknown",
+    "progression": "Main Progression",
+    "type": "Ground",
+    "stage": "Pre-Hardmode",
+    "images": [
+      "/bosses/vanilla/Map Icon Wall of Flesh.png"
+    ]
+  },
+  {
+    "name": "Queen Slime",
+    "gender": "Female",
+    "progression": "Optional",
+    "type": ["Ground", "Flying"],
+    "stage": "Hardmode",
+    "images": [
+      "/bosses/vanilla/Map Icon Queen Slime.png"
+    ]
+  },
+  {
+    "name": "Cryogen",
+    "gender": "Unknown",
+    "progression": "Semi-Required",
+    "type": "Flying",
+    "stage": "Hardmode",
+    "images": [
+      "/bosses/calamity/Cryogen map.png"
+    ]
+  },
+  {
+    "name": "The Twins",
+    "gender": "Unknown",
+    "progression": "Main Progression",
+    "type": "Flying",
+    "stage": "Hardmode",
+    "images": [
+      "/bosses/vanilla/Map Icon Twins (combined).png"
+    ]
+  },
+  {
+    "name": "Aquatic Scourge",
+    "gender": "Unknown",
+    "progression": "Optional",
+    "type": "Worm",
+    "stage": "Hardmode",
+    "images": [
+      "/bosses/calamity/Aquatic Scourge map.png"
+    ]
+  },
+  {
+    "name": "The Destroyer",
+    "gender": "Unknown",
+    "progression": "Main Progression",
+    "type": "Worm",
+    "stage": "Hardmode",
+    "images": [
+      "/bosses/vanilla/Map Icon The Destroyer.png"
+    ]
+  },
+  {
+    "name": "Brimstone Elemental",
+    "gender": "Female",
+    "progression": "Optional",
+    "type": "Flying",
+    "stage": "Hardmode",
+    "images": [
+      "/bosses/calamity/Brimstone Elemental map.png"
+    ]
+  },
+  {
+    "name": "Skeletron Prime",
+    "gender": "Unknown",
+    "progression": "Main Progression",
+    "type": "Flying",
+    "stage": "Hardmode",
+    "images": [
+      "/bosses/vanilla/Map Icon Skeletron Prime.png"
+    ]
+  },
+  {
+    "name": "Calamitas Clone",
+    "gender": "Female",
+    "progression": "Semi-Required",
+    "type": "Flying",
+    "stage": "Hardmode",
+    "images": [
+      "/bosses/calamity/Calamitas Clone map.png"
+    ]
+  },
+  {
+    "name": "Plantera",
+    "gender": "Female",
+    "progression": "Main Progression",
+    "type": "Ground",
+    "stage": "Hardmode",
+    "images": [
+      "/bosses/vanilla/Map Icon Plantera (first form).png"
+    ]
+  },
+  {
+    "name": "Leviathan and Anahita",
+    "gender": "Female",
+    "progression": "Optional",
+    "type": "Flying",
+    "stage": "Hardmode",
+    "images": [
+      "/bosses/calamity/Leviathan map.png",
+      "/bosses/calamity/Anahita map.png"
+    ]
+  },
+  {
+    "name": "Astrum Aureus",
+    "gender": "Unknown",
+    "progression": "Optional",
+    "type": "Ground",
+    "stage": "Hardmode",
+    "images": [
+      "/bosses/calamity/Astrum Aureus map.png"
+    ]
+  },
+  {
+    "name": "Golem",
+    "gender": "Unknown",
+    "progression": "Main Progression",
+    "type": "Ground",
+    "stage": "Hardmode",
+    "images": [
+      "/bosses/vanilla/Map Icon Golem.png"
+    ]
+  },
+  {
+    "name": "Duke Fishron",
+    "gender": "Male",
+    "progression": "Optional",
+    "type": "Flying",
+    "stage": "Hardmode",
+    "images": [
+      "/bosses/vanilla/Map Icon Duke Fishron.png"
+    ]
+  },
+  {
+    "name": "The Plaguebringer Goliath",
+    "gender": "Female",
+    "progression": "Optional",
+    "type": "Flying",
+    "stage": "Hardmode",
+    "images": [
+      "/bosses/calamity/Plaguebringer Goliath map.png"
+    ]
+  },
+  {
+    "name": "Empress of Light",
+    "gender": "Female",
+    "progression": "Optional",
+    "type": "Flying",
+    "stage": "Hardmode",
+    "images": [
+      "/bosses/vanilla/Map Icon Empress of Light.png"
+    ]
+  },
+  {
+    "name": "Ravager",
+    "gender": "Unknown",
+    "progression": "Optional",
+    "type": "Ground",
+    "stage": "Hardmode",
+    "images": [
+      "/bosses/calamity/Ravager map.png"
+    ]
+  },
+  {
+    "name": "Lunatic Cultist",
+    "gender": "Male",
+    "progression": "Main Progression",
+    "type": "Flying",
+    "stage": "Hardmode",
+    "images": [
+      "/bosses/vanilla/Map Icon Lunatic Cultist.png"
+    ]
+  },
+  {
+    "name": "Astrum Deus",
+    "gender": "Unknown",
+    "progression": "Semi-Required",
+    "type": "Worm",
+    "stage": "Hardmode",
+    "images": [
+      "/bosses/calamity/Astrum Deus map.png"
+    ]
+  },
+  {
+    "name": "Moon Lord",
+    "gender": "Male",
+    "progression": "Main Progression",
+    "type": "Flying",
+    "stage": "Hardmode",
+    "images": [
+      "/bosses/vanilla/Map Icon Moon Lord.png"
+    ]
+  },
+  {
+    "name": "Profaned Guardians",
+    "gender": "Unknown",
+    "progression": "Main Progression",
+    "type": "Flying",
+    "stage": "Post Moon Lord",
+    "images": [
+      "/bosses/calamity/Guardian Commander map.png",
+      "/bosses/calamity/Guardian Healer map.png",
+      "/bosses/calamity/Guardian Defender map.png"
+    ]
+  },
+  {
+    "name": "Dragonfolly",
+    "gender": "Unknown",
+    "progression": "Optional",
+    "type": "Flying",
+    "stage": "Post Moon Lord",
+    "images": [
+      "/bosses/calamity/Dragonfolly map.png"
+    ]
+  },
+  {
+    "name": "Providence",
+    "gender": "Female",
+    "progression": "Main Progression",
+    "type": "Flying",
+    "stage": "Post Moon Lord",
+    "images": [
+      "/bosses/calamity/Providence map.png"
+    ]
+  },
+  {
+    "name": "Ceaseless Void",
+    "gender": "Unknown",
+    "progression": "Main Progression",
+    "type": "Flying",
+    "stage": "Post Moon Lord",
+    "images": [
+      "/bosses/calamity/Ceaseless Void map.png"
+    ]
+  },
+  {
+    "name": "Storm Weaver",
+    "gender": "Unknown",
+    "progression": "Main Progression",
+    "type": "Worm",
+    "stage": "Post Moon Lord",
+    "images": [
+      "/bosses/calamity/Storm Weaver map.png"
+    ]
+  },
+  {
+    "name": "Signus",
+    "gender": "Male",
+    "progression": "Main Progression",
+    "type": "Flying",
+    "stage": "Post Moon Lord",
+    "images": [
+      "/bosses/calamity/Signus map.png"
+    ]
+  },
+  {
+    "name": "Polterghast",
+    "gender": "Unknown",
+    "progression": "Semi-Required",
+    "type": "Ground",
+    "stage": "Post Moon Lord",
+    "images": [
+      "/bosses/calamity/Polterghast map.png"
+    ]
+  },
+  {
+    "name": "The Old Duke",
+    "gender": "Male",
+    "progression": "Optional",
+    "type": "Flying",
+    "stage": "Post Moon Lord",
+    "images": [
+      "/bosses/calamity/The Old Duke map.png"
+    ]
+  },
+  {
+    "name": "The Devourer of Gods",
+    "gender": "Male",
+    "progression": "Main Progression",
+    "type": "Worm",
+    "stage": "Post Moon Lord",
+    "images": [
+      "/bosses/calamity/Devourer of Gods map.png"
+    ]
+  },
+  {
+    "name": "Yharon",
+    "gender": "Male",
+    "progression": "Main Progression",
+    "type": "Flying",
+    "stage": "Post Moon Lord",
+    "images": [
+      "/bosses/calamity/Yharon map.png"
+    ]
+  },
+  {
+    "name": "Exo Mechs",
+    "gender": "Unknown",
+    "progression": "Main Progression",
+    "type": ["Flying", "Worm"],
+    "stage": "Post Moon Lord",
+    "images": [
+      "/bosses/calamity/Ares map.png",
+      "/bosses/calamity/Artemis Phase 1 map.png",
+      "/bosses/calamity/Apollo Phase 1 map.png",
+      "/bosses/calamity/Thanatos Head map.png"
+    ]
+  },
+  {
+    "name": "Supreme Witch, Calamitas",
+    "gender": "Female",
+    "progression": "Main Progression",
+    "type": "Flying",
+    "stage": "Post Moon Lord",
+    "images": [
+      "/bosses/calamity/Calamitas map.png"
+    ]
+  },
+  {
+    "name": "Primordial Wyrm",
+    "gender": "Unknown",
+    "progression": "Optional",
+    "type": "Worm",
+    "stage": "Post Moon Lord",
+    "images": [
+      "/bosses/calamity/Primordial Wyrm map.png"
+    ]
+  }
+]
